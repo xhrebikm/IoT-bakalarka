@@ -1,0 +1,98 @@
+\section{Technológia Internet of Things}
+Internet of Things je sie objektov, vozidiel, budov alebo inıch zariadení, ktoré sú spojené elektronikou, softvérom alebo senzormi prostredníctvom internetového pripojenia. Toto internetové pripojenie zabezpeèuje zber a vımenu dát v takomto systéme.\cite{IoT1} IoT zabezpeèuje ovládanie objektov naprieè existujúcou sieovou infraštruktúrou. Vytvára monosti integrovania poèítaèovıch systémov do reálneho sveta, èo sa odráa na efektivite ako aj ekonomickıch vıhodách.\cite{IoT2} Princípom IoT je vyuitie senzorov, akènıch èlenov v objektoch, ich konektivita, logika a jej aplikácia na tıchto objektoch. Táto technológia je èasou všeobecnejšej triedy cyber-fyzikálnych systémov. Kadı objekt je jedineène identifikovate¾nı prostredníctvom vıpoètového systému v rámci jednej internetovej infraštruktúry.\cite{IoT3}
+\newline 
+ 
+\subsection{Vznik pojmu Internet of Things}
+Pojem Internet of Things prvıkrát pouil Britskı podnikate¾ Kevin Ashton v roku 1999 ako spoluzakladate¾ Auto-ID Labs. Vtedy mal na mysli globálny sie objektov prepojenıch pomocou rádiofrekvenènej identifikácie.\cite{IoT4}       IoT ponúka pokroèilejšiu konektivitu zariadení, systémov a sluieb ktorá presahuje komunikáciu Machine to Machine a pokrıva celı rad protokolov, domén a aplikácií.\cite{IoT5} Prepojenie tıchto vstavanıch zariadení má vyuitie na poli automatizácie takmer vo všetkıch smeroch, zároveò umoòuje aplikovanie ako napríklad inteligentné siete, inteligentné budovy a mestá.\cite{IoT6}\newline 
+
+\subsection{Vyuite¾nos}
+ Slovo "Things" v IoT odkazuje na širokú škálu ziariadení vyuite¾nıch pri monitorovaní srdcovıch implantátov,  uplatnenie nájdu aj rôznorodé èipy na hospodárske zvieratá, elektronické senzory v moriach, zabudované senzory v automobiloch a inıch objektoch, monitoring patogénov \cite{IoT7}, prevádzka zariadení v teréne èi na vojenské, alebo záchranné úèely.\cite{IoT8} Zároveò ho môme definova aj ako neoddelite¾nú zmes hardvéru, softvéru, dát a sluieb. \cite{IoT9} Tieto zariadenia zbierajú uitoèné informácie pomocou existujúcej technológie a následne tieto dáta nezávisle posielajú do ïalších zariadení.
+\newline 
+
+\subsection{História}
+Koncepcia siete inteligentnıch zariadení bola spomenutá u v roku 1982, kde na Carnegie Mellon University vyuili upravenı automat na Coca-Colu, ktorı bol ako prvé zariadenie tohto druhu pripojenı na internet. Toto zariadenie odosielalo informáciu o svojej zásobe nápojov, ktoré malo k dispozícii ako aj informáciu o tom, èi vydanı nápoj bol studenı. \cite{IoT10} Referát Marka Weisera z roku 1991 o všadeprítomnej vıpoètovej technike s názvom "Poèítaè 21. storoèia", ktorı hovorí o tom, e poèítaèové vıpoèty a technológia sa môe objavi kdeko¾vek a kedyko¾vek sa zmienil aj o vízii IoT takisto ako aj spoloènos Percom, UbiComp.\cite{IoT11, IoT12} V roku 1994 popísal Reza Raji koncept IoT v magazíne \textit{IEEE Spectrum} ako pohyb malıch dát do ve¾kej mnoiny uzlov ako monos automatizova všetko od malıch domácností a po továrne gigantickıch rozmerov.\cite{IoT13}V rozmedzí rokov 1993-1996 predstavil Microsoft ich riešenie s názovm \textit{at Work},ktoré malo prepoji zariadenia vo firme prostredníctvom komunikaènıch protokolov na umonenie ovládania a informácie o pripojenıch zariadeniach na operaènom systéme Microsoft Windows. V roku 1999 Bill Joy, spoluzakladate¾ \textit{Sun Microsystems} predstavil komunikáciu Device-to-Device (D2D), ktorı prezentoval na \textit{World Economic Forum} v meste Davos vo Švajèiarsku.\cite{IoT14} V tomto roku sa stal koncept IoT populárnym a to vïaka \textit{Auto-ID Center} na Massachusettskej Univerzite (MIT)
+
+\begin{table}[!htbp]
+\begin{center}
+\begin{tabular}{p{4cm}|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c}
+& \multicolumn{14}{c}%
+	 {\textbf{Funkcia}}\\ \hline
+&&&& & &\multicolumn{8}{c}%
+	 {Modifikácia}\\ 
+\textbf{Modul} &\begin{sideways} zobrazenie hlavièky \end{sideways} &\begin{sideways} blokovanie skriptov \end{sideways} &\begin{sideways} zmena IP \end{sideways} & \begin{sideways} zmena lokalizácie \end{sideways} & \begin{sideways} zmazanie/blokovanie cookies \end{sideways} & \begin{sideways} blokovanie trackerov \end{sideways}  & \begin{sideways} popis \end{sideways} & \begin{sideways}pouívate¾skı agent\end{sideways} & \begin{sideways} kódové oznaèenie prehliadaèa \end{sideways} & \begin{sideways} názov prehliadaèa \end{sideways} & \begin{sideways} verzia prehliadaèa \end{sideways} & \begin{sideways} platforma \end{sideways} & \begin{sideways} vırobca prehliadaèa \end{sideways} & \begin{sideways} oznaèenie vırobcu prehliadaèa \end{sideways} \\ \hline
+User agent switcher & & & & & &  & X & X & X & X & X & X & X & X  \\ \hline
+Ghostery &  && & & X & X &  &  & & & & & & \\  \hline
+Better privacy && &  & & X &  &  &  & & & & & & \\  \hline
+Anonymox &  && X & X & X &  & X & X & & & & & & \\  \hline
+Modify headers & & &  &  & X &  &  & X &  &  &  & & &  \\  \hline
+Request policy & & &  &  & & X  &  &  &  &  &  & & &   \\  \hline
+Live HTTP headers & X& &  &  & &  &  &  &  &  &  & & &   \\  \hline
+User agent awitcher for chrome & & &  &  & &  & X & X &  &  &  & & &   \\  \hline
+Header hacker & & &  &  & &  & X & X & X & X & X & X & X & X    \\  \hline
+Mod header & & &  &  & &  & X & X & X & X & X & X & X & X    \\  \hline
+Script no & &X &  &  & &  &  &  &  &  &  &  &  &     \\  \hline
+No script & &X &  &  & &  &  &  &  &  &  &  &  &     \\  \hline
+Proxify it & & &X  & X & &  &  &  &  &  &  &  &  &     \\  \hline
+I'm not here & & &  & X & &  &  &  &  &  &  &  &  &     \\  \hline
+Get anonymous personal edition & &X &X &X &X&X &  &  &  &  &  &  &  &     \\  \hline
+Anonymous browsing toolbar & & & X & X & &  &  &  &  &  &  &  &  &     \\  \hline
+Easy hide your IP and surf anonymously & & & X & X& &  &  & X & X & X & X &  &  &     \\  \hline
+\end{tabular}
+\caption{Moduly a ich funkcie pri anonymizácii}
+\label{modulyVlastnosti}
+\end{center}
+\end{table}
+
+\subsection{Anonymná sie}
+\noindent Anonymná sie je sie serverov, medzi ktorımi dáta prechádzajú šifrované. V anonymnıch sieach dáta prechádzajú z poèítaèa pouívate¾a, odkia¾ bola poiadavka poslaná, cez viaceré proxy smerovaèe, z ktorıch kadı správu doplní o smerovanie a zašifruje vlastnım k¾úèom. Cesta od ...
+
+
+\subsection{Funkcionalita}
+\noindent  Rozšírenie tie okrem splnenia špecifikácie malo pre preh¾adnos a overenie funkènosti zobrazova údaje, ktoré boli na server odoslané. Zoznam údajov odoslanıch na server, sa mal uklada do krátkodobej histórie, aby nemal pouívate¾ k dispozícií len najnovšie údaje, ale aj údaje odoslané v nejakom èasovom období. 
+
+\subsubsection{Funkcionalita2}
+\noindent Samozrejmosou bolo nastavenie zapnutia rozšírenia pri štarte, prípadne interval zmeny odosielanıch údajov.
+
+\subsection{Vzh¾ad}
+\noindent Dôleitou poiadavkou kladenou na rozšírenie bolo príjemné pouívate¾ské rozhranie. Z~tohto dôvodu malo rozšírenie obsahova zoznam modifikovanıch vlastností a tlaèidlo pre prístup k nastaveniam rozšírenia v jednoduchej a praktickej forme. Predpokladanı vzh¾ad je zobrazenı na obrázku è. \ref{vzhladobr}.
+\begin{figure}[!htbp]
+  \centering
+  \includegraphics[width=8cm]{img/vzhlad.png}
+  \caption{Predpokladanı vzh¾ad rozšírenia.}
+  \label{vzhladobr}
+\end{figure}	 
+\noindent Dôleitou poiadavkou kladenou na rozšírenie bolo príjemné pouívate¾ské rozhranie. Z~tohto dôvodu malo rozšírenie obsahova zoznam modifikovanıch vlastností a tlaèidlo pre prístup k nastaveniam rozšírenia v jednoduchej a praktickej forme. Predpokladanı vzh¾ad je zobrazenı na obrázku è. \ref{vzhladobr}.
+
+\begin{algorithm}
+\lstset{
+    language=C,
+    basicstyle=\small\sffamily,
+    frame=none,
+    numbers=left,
+    xleftmargin=5.0ex,
+    numberstyle=\tiny,
+    stepnumber=1,
+    showstringspaces=false,
+    keywordstyle=\color{blue}\bfseries
+    }
+\lstset{emph={%  Adjust any special keywords
+    printf%
+    },emphstyle={\color[rgb]{1,0,0}\bfseries}%
+}%
+\begin{lstlisting}
+/* Hello World program */
+
+#include<stdio.h>
+
+struct cpu_info {
+    long unsigned utime, ntime, stime, itime;
+    long unsigned iowtime, irqtime, sirqtime;
+};
+
+main()
+{
+    printf("Hello World");
+}\end{lstlisting}
+ \caption{Ukáka algoritmu}
+ \label{euclid}
+\end{algorithm}
