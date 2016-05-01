@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.27)  29 APR 2016 19:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.27)  30 APR 2016 22:46
 entering extended mode
 **./ukazka_prace1.tex
 (ukazka_prace1.tex
@@ -554,33 +554,65 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 217.
 \c@pridepth=\count134
 \cftbeforeprititleskip=\skip88
 \cftafterprititleskip=\skip89
-) (ukazka_prace1.aux
-
-LaTeX Warning: Label `euclid' multiply defined.
-
 )
+("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindtex
+t.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count135
+\c@Blindtext=\count136
+\c@blind@countparstart=\count137
+\blind@countxx=\count138
+\blindtext@numBlindtext=\count139
+\blind@countyy=\count140
+\c@blindlist=\count141
+\c@blindlistlevel=\count142
+\c@blindlist@level=\count143
+\blind@listitem=\count144
+\c@blind@listcount=\count145
+\c@blind@levelcount=\count146
+\blind@mathformula=\count147
+\blind@Mathformula=\count148
+\c@blind@randomcount=\count149
+\c@blind@randommax=\count150
+\c@blind@pangramcount=\count151
+\c@blind@pangrammax=\count152
+)
+("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.
+sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip90
+\enit@outerparindent=\dimen134
+\enit@toks=\toks28
+\enit@inbox=\box34
+\enitdp@description=\count153
+) (ukazka_prace1.aux)
 \openout1 = `ukazka_prace1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 9.
- ("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 10.
+
+("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring ON on input line 9.
+\AtBeginShipoutBox=\box35
+Package hyperref Info: Link coloring ON on input line 10.
 
 ("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
 ty"
@@ -590,11 +622,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count135
+\c@section@level=\count154
 )
-LaTeX Info: Redefining \ref on input line 9.
-LaTeX Info: Redefining \pageref on input line 9.
-LaTeX Info: Redefining \nameref on input line 9.
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
  (ukazka_prace1.out) (ukazka_prace1.out)
 \@outlinefile=\write4
 \openout4 = `ukazka_prace1.out'.
@@ -603,69 +635,69 @@ LaTeX Info: Redefining \nameref on input line 9.
 ("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count136
-\scratchdimen=\dimen134
-\scratchbox=\box35
-\nofMPsegments=\count137
-\nofMParguments=\count138
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count139
-\MPscratchDim=\dimen135
-\MPnumerator=\count140
-\makeMPintoPDFobject=\count141
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count155
+\scratchdimen=\dimen135
+\scratchbox=\box36
+\nofMPsegments=\count156
+\nofMParguments=\count157
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count158
+\MPscratchDim=\dimen136
+\MPnumerator=\count159
+\makeMPintoPDFobject=\count160
+\everyMPtoPDFconversion=\toks30
 )
-\c@lstlisting=\count142
+\c@lstlisting=\count161
  [1
 
 {C:/Users/Marek/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[1] <includes/assignment.jpeg, id=70, 596.4684pt x 843.99315pt>
+[1] <includes/assignment.jpeg, id=66, 596.4684pt x 843.99315pt>
 File: includes/assignment.jpeg Graphic file (type jpg)
 
 <use includes/assignment.jpeg>
-Package pdftex.def Info: includes/assignment.jpeg used on input line 13.
+Package pdftex.def Info: includes/assignment.jpeg used on input line 14.
 (pdftex.def)             Requested size: 597.50787pt x 845.49783pt.
 
 Overfull \vbox (181.262pt too high) has occurred while \output is active []
 
 
 [2 <./includes/assignment.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 14--14
-
- []
-
-(includes/abstract.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--14
-
- []
-
-[3]
 Underfull \hbox (badness 10000) in paragraph at lines 15--15
 
  []
 
-(includes/abstractEN.tex)
+(includes/abstract.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 1--15
 
  []
 
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+
+ []
+
+(includes/abstractEN.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--16
+
+ []
+
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
 
@@ -702,7 +734,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 [7]
-\mylenf=\skip90
+\mylenf=\skip91
  (ukazka_prace1.lof)
 \tf@lof=\write6
 \openout6 = `ukazka_prace1.lof'.
@@ -713,7 +745,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
  [8]
 (includes/AbbreviationsAndSymbols.tex
-Underfull \hbox (badness 10000) in paragraph at lines 20--2
+Underfull \hbox (badness 10000) in paragraph at lines 21--2
 
  []
 
@@ -731,153 +763,173 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
 
 Package hyperref Warning: Composite letter `\textasciicaron+l'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 8.
+(hyperref)                removing `\textasciicaron' on input line 9.
 
 
 Package hyperref Warning: Composite letter `\textasciicaron+t'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 8.
+(hyperref)                removing `\textasciicaron' on input line 9.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--11
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
 
 [12]
-Underfull \hbox (badness 2809) in paragraph at lines 30--30
-[]\T1/lmr/m/n/12 User agent aw-itcher
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 37--37
-[]\T1/lmr/m/n/12 Get anony-mous per-
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+
  []
 
 
-Package hyperref Warning: Composite letter `\textasciicaron+t'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 46.
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+
+ []
 
 
-Package hyperref Warning: Composite letter `\textasciicaron+l'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 56.
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
 
-<img/vzhlad.png, id=164, 390.7398pt x 413.3844pt>
-File: img/vzhlad.png Graphic file (type png)
- <use img/vzhlad.png>
-Package pdftex.def Info: img/vzhlad.png used on input line 60.
-(pdftex.def)             Requested size: 227.62204pt x 240.8102pt.
- [13]
+ []
+
+[13]
+Overfull \hbox (10.07889pt too wide) in paragraph at lines 31--34
+[]\T1/lmr/bx/it/12 "Abstrakcia prostred-níctvom soft-vérových a hard-vérových r
+ozhraní"\T1/lmr/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+
+Overfull \hbox (29.58301pt too wide) in paragraph at lines 35--38
+[]\T1/lmr/bx/it/12 "Abstrakcia prostred-níctvom dá-tových prú-dov (spo-jité ale
+bo samostatné
+ []
+
+
+Overfull \hbox (5.3085pt too wide) in paragraph at lines 35--38
+\T1/lmr/m/n/12 erované jed-notlivými kom-po-nen-tami. V²etky ti-eto toky dát, £
+i uº spo-jité, samostatné,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
 [14]
-("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
-sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
-ty"
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-)
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 82.
- ("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
-File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 83.
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 83.
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
 
-LaTeX Font Info:    No file OMSlmss.fd. on input line 83.
+ []
 
 
-LaTeX Font Warning: Font shape `OMS/lmss/m/it' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textasteriskcentered' on input line 83.
+Underfull \hbox (badness 10000) in paragraph at lines 52--55
 
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 96.
-) [15 <./img/vzhlad.png>] [16] (includes/conclusion.tex) [17
+ []
 
 
-]
-(ukazka_prace1.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
+
+ []
+
+[15]
+Overfull \hbox (6.26695pt too wide) in paragraph at lines 63--65
+\T1/lmr/m/n/12 Aplikácie a in-teligentné ob-jekty by mali by´ jednodu-cho, rých
+lo mod-e-lo-vané a vylep²o-
+ []
+
+) [16] (includes/conclusion.tex) [17
+
+
+] (ukazka_prace1.bbl
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 6.
 
 ("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 5302) in paragraph at lines 25--33
-\T1/lmr/m/n/12 and In-te-gra-teed Ecosys-tems.  [][]$\T1/lmtt/m/n/12 http : / /
- www . internet-[]of-[]things-[]research .$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--33
+Underfull \hbox (badness 10000) in paragraph at lines 36--44
 $\T1/lmtt/m/n/12 eu / pdf / Converging _ Technologies _ for _ Smart _ Environme
 nts _ and _ Integrated _$
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 59--64
-[]\T1/lmr/m/sc/12 Mattern, F., and Flo-erke-meier, C.  \T1/lmr/m/n/12 From the 
-In-ter-net of Com-put-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--72
-[]\T1/lmr/m/sc/12 Olivier, M.  \T1/lmr/m/n/12 A smarter grid with the In-ter-ne
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
+[]\T1/lmr/m/sc/12 Monnier, O.  \T1/lmr/m/n/12 A smarter grid with the In-ter-ne
 t of Things.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--72
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
 [][]$\T1/lmtt/m/n/12 http : / / e2e . ti . com / blogs _ /b / smartgrid / archi
 ve / 2014 / 05 / 08 /$
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 66--72
+Underfull \hbox (badness 3281) in paragraph at lines 52--58
 $\T1/lmtt/m/n/12 a-[]smarter-[]grid-[]with-[]the-[]internet-[]of-[]things/$[][]
 \T1/lmr/m/n/12 , 2014.  [On-line; ac-cessed
  []
 
 
-Underfull \hbox (badness 2707) in paragraph at lines 74--81
-[]\T1/lmr/m/sc/12 Ovidiu, V., and Pe-ter, F.  \T1/lmr/m/n/12 In-ter-net of Thin
-gs - Con-verg-ing Tech-
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
+$\T1/lmtt/m/n/12 jsp ? tp = &arnumber = 284793 & url = http % 3A % 2F % 2Fieeex
+plore . ieee . org % 2Fxpls %$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--81
-\T1/lmr/m/n/12 nolo-gies for Smart En-vi-ro-ments and In-te-gra-teed Ecosys-tem
-s.  [][]$\T1/lmtt/m/n/12 http :$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--81
-$\T1/lmtt/m/n/12 / / www . internet-[]of-[]things-[]research . eu / pdf / Conve
-rging _ Technologies _ for _$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--81
-$\T1/lmtt/m/n/12 Smart _ Environments _ and _ Integrated _ Ecosystems _ IERC _ 
-Book _ Open _ Access _$
+Underfull \hbox (badness 1205) in paragraph at lines 76--82
+[]\T1/lmr/m/sc/12 Rouse, M.  \T1/lmr/m/n/12 In-ter-net of Things (IoT).  [][]$\
+T1/lmtt/m/n/12 http : / / internetofthingsagenda .$
  []
 
 [18
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 83--89
-$\T1/lmtt/m/n/12 jsp ? tp = &arnumber = 284793 & url = http % 3A % 2F % 2Fieeex
-plore . ieee . org % 2Fxpls %$
+Underfull \hbox (badness 5050) in paragraph at lines 91--98
+[]\T1/lmr/m/sc/12 Vermesan, O., and Friess, P.  \T1/lmr/m/n/12 In-ter-net of Th
+ings - Con-verg-ing
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 91--98
+\T1/lmr/m/n/12 Tech-nolo-gies for Smart En-vi-ro-ments and In-te-gra-teed Ecosy
+s-tems.  [][]$\T1/lmtt/m/n/12 http :$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--98
+$\T1/lmtt/m/n/12 / / www . internet-[]of-[]things-[]research . eu / pdf / Conve
+rging _ Technologies _ for _$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--98
+$\T1/lmtt/m/n/12 Smart _ Environments _ and _ Integrated _ Ecosystems _ IERC _ 
+Book _ Open _ Access _$
  []
 
 ) [19] (ukazka_prace1.pri)
@@ -891,60 +943,88 @@ plore . ieee . org % 2Fxpls %$
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 27.
+(hyperref)                removing `\textasciicaron' on input line 28.
 
-(includes/prilohaA.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--21
-
- []
-
-) [2
+(includes/prilohaA.tex) [2
 
 
-] (includes/prilohaB.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 29.
+] (includes/prilohaB.tex
+("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 18.
+ ("C:\Users\Marek\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 19.
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 19.
+
+LaTeX Font Info:    No file OMSlmss.fd. on input line 19.
+
+
+LaTeX Font Warning: Font shape `OMS/lmss/m/it' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textasteriskcentered' on input line 19.
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 32.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 30.
  [3
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 29.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 30.
  (ukazka_prace1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 29.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 29.
-Package rerunfilecheck Info: File `ukazka_prace1.out' has not changed.
-(rerunfilecheck)             Checksum: 907FB045D5A9717EEFF51A053422EA9A;845.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 30.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 30.
 
+
+Package rerunfilecheck Warning: File `ukazka_prace1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `ukazka_prace1.out':
+(rerunfilecheck)             Before: 506463F3FAAD5DE2749CF10F884B56DA;779
+(rerunfilecheck)             After:  D6C915950C0CECA115CF4658D3F8C590;791.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 29.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 30.
  ) 
 Here is how much of TeX's memory you used:
- 10982 strings out of 493634
- 159329 string characters out of 3135239
- 314538 words of memory out of 3000000
- 14045 multiletter control sequences out of 15000+200000
- 79723 words of font info for 49 fonts, out of 3000000 for 9000
+ 11430 strings out of 493634
+ 167210 string characters out of 3135239
+ 316491 words of memory out of 3000000
+ 14503 multiletter control sequences out of 15000+200000
+ 83994 words of font info for 50 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 40i,10n,50p,1529b,1577s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
-c}<C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/lm/lmbx12.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/lm/lmcsc10.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/lm/lmr12.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/lm/lmr6.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/lm/lmri12.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/Marek/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Marek/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/Marek/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
-Output written on ukazka_prace1.pdf (23 pages, 2079131 bytes).
+ 40i,5n,51p,1566b,1580s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section.9} has been referenced but does not exist
+, replaced by a fixed one
+
+{C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}
+<C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmbx12.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/lm/lmbxi10.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmcsc10.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/lm/lmr12.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/lm/lmr6.pfb><C:/Users/Marek/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/lm/lmri12.pfb><C:/Users/Marek/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/Marek/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Marek/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/Marek/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
+Output written on ukazka_prace1.pdf (23 pages, 2082634 bytes).
 PDF statistics:
- 340 PDF objects out of 1000 (max. 8388607)
- 91 named destinations out of 1000 (max. 500000)
- 123 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 313 PDF objects out of 1000 (max. 8388607)
+ 73 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
