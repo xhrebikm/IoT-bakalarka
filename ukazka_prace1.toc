@@ -9,12 +9,15 @@
 \contentsline {subsubsection}{\numberline {1.4.1}Hypertext Transfer Protocol}{13}{subsubsection.8}
 \contentsline {subsection}{\numberline {1.5}Senzory}{15}{subsection.11}
 \contentsline {subsection}{\numberline {1.6}Ak\v cn\'e \v cleny}{16}{subsection.12}
-\contentsline {subsection}{\numberline {1.7}Agreg\'atory}{16}{subsection.13}
-\contentsline {subsection}{\numberline {1.8}Mo\v znosti prepojenia}{16}{subsection.14}
-\contentsline {subsection}{\numberline {1.9}Middleware}{16}{subsection.15}
-\contentsline {subsubsection}{\numberline {1.9.1}Po\v ziadavky}{16}{subsubsection.16}
-\contentsline {section}{Z\'{a}ver}{20}{section*.17}
-\contentsline {section}{Zoznam pou\v {z}itej literat\'{u}ry}{21}{section*.18}
-\contentsline {section}{Pr\'{i}lohy}{I}{section*.19}
-\contentsline {section}{\numberline {A} \v Strukt\'ura elektronick\'eho nosi\v ca}{II}{section.21}
-\contentsline {section}{\numberline {B} Algoritmus}{III}{section.24}
+\contentsline {subsection}{\numberline {1.7}Pripojenie}{16}{subsection.13}
+\contentsline {subsubsection}{\numberline {1.7.1}Lok\'alne pripojenie}{16}{subsubsection.14}
+\contentsline {subsubsection}{\numberline {1.7.2}Pripojenie do siete Internet}{18}{subsubsection.15}
+\contentsline {subsection}{\numberline {1.8}Agreg\'atory}{18}{subsection.16}
+\contentsline {subsubsection}{\numberline {1.8.1}Riadiace aplik\'acie}{19}{subsubsection.17}
+\contentsline {subsection}{\numberline {1.9}Middleware}{21}{subsection.18}
+\contentsline {subsubsection}{\numberline {1.9.1}Po\v ziadavky}{21}{subsubsection.19}
+\contentsline {section}{Z\'{a}ver}{25}{section*.20}
+\contentsline {section}{Zoznam pou\v {z}itej literat\'{u}ry}{26}{section*.21}
+\contentsline {section}{Pr\'{i}lohy}{I}{section*.22}
+\contentsline {section}{\numberline {A} \v Strukt\'ura elektronick\'eho nosi\v ca}{II}{section.24}
+\contentsline {section}{\numberline {B} Algoritmus}{III}{section.27}

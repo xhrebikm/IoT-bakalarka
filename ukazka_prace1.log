@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.27)  6 MAY 2016 11:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.27)  6 MAY 2016 20:31
 entering extended mode
 **./ukazka_prace1.tex
 (ukazka_prace1.tex
@@ -701,7 +701,7 @@ ii"
  [1
 
 {C:/Users/Marek/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[1] <includes/assignment.jpeg, id=86, 596.4684pt x 843.99315pt>
+[1] <includes/assignment.jpeg, id=98, 596.4684pt x 843.99315pt>
 File: includes/assignment.jpeg Graphic file (type jpg)
 
 <use includes/assignment.jpeg>
@@ -837,7 +837,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
 
-[12] [13] <img/http.jpg, id=192, 309.40594pt x 356.0803pt>
+[12] [13] <img/http.jpg, id=207, 309.40594pt x 356.0803pt>
 File: img/http.jpg Graphic file (type jpg)
  <use img/http.jpg>
 Package pdftex.def Info: img/http.jpg used on input line 28.
@@ -883,85 +883,97 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                removing `\textasciicaron' on input line 66.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--81
+Overfull \hbox (12.7984pt too wide) in paragraph at lines 82--83
+[]\T1/lmr/m/n/12 Nov²í pro-tokol, ktorý pouºíva na ko-mu-niká-ciu bez-drô-tové 
+pripo-je-nie. Je navrhnutý
+ []
+
+[16] [17] [18] [19]
+Overfull \hbox (19.65288pt too wide) in paragraph at lines 129--130
+\T1/lmr/m/n/12 umoº¬uje kom-bi-no-va´ vi-acero zari-adení do jed-ného vir-tuál-
+neho zari-ade-nia, £o zjednodu²í
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 143--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--86
+Underfull \hbox (badness 10000) in paragraph at lines 147--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--86
-
- []
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 88--91
+Underfull \hbox (badness 10000) in paragraph at lines 147--150
 
  []
 
 
-Overfull \hbox (10.07889pt too wide) in paragraph at lines 92--95
+Underfull \hbox (badness 10000) in paragraph at lines 152--155
+
+ []
+
+[21]
+Overfull \hbox (10.07889pt too wide) in paragraph at lines 156--159
 []\T1/lmr/bx/it/12 "Abstrakcia prostred-níctvom soft-vérových a hard-vérových r
 ozhraní"\T1/lmr/m/n/12 . 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--95
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
 
  []
 
 
-Overfull \hbox (29.58301pt too wide) in paragraph at lines 96--99
+Overfull \hbox (29.58301pt too wide) in paragraph at lines 160--163
 []\T1/lmr/bx/it/12 "Abstrakcia prostred-níctvom dá-tových prú-dov (spo-jité ale
 bo samostatné
  []
 
 
-Overfull \hbox (5.3085pt too wide) in paragraph at lines 96--99
+Overfull \hbox (5.3085pt too wide) in paragraph at lines 160--163
 \T1/lmr/m/n/12 erované jed-notlivými kom-po-nen-tami. V²etky ti-eto toky dát, £
 i uº spo-jité, samostatné,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--99
+Underfull \hbox (badness 10000) in paragraph at lines 160--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
+Underfull \hbox (badness 10000) in paragraph at lines 164--167
 
  []
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 109--111
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--116
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--120
+Underfull \hbox (badness 10000) in paragraph at lines 177--180
 
  []
 
-[18]
-Overfull \hbox (6.26695pt too wide) in paragraph at lines 124--126
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
+
+ []
+
+[23]
+Overfull \hbox (6.26695pt too wide) in paragraph at lines 188--190
 \T1/lmr/m/n/12 Aplikácie a in-teligentné ob-jekty by mali by´ jednodu-cho, rých
 lo mod-e-lo-vané a vylep²o-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--126
+Underfull \hbox (badness 10000) in paragraph at lines 188--190
 
  []
 
-) [19] (includes/conclusion.tex) [20
+) [24] (includes/conclusion.tex) [25
 
 
 ] (ukazka_prace1.bbl
@@ -993,7 +1005,7 @@ $\T1/lmtt/m/n/12 a-[]smarter-[]grid-[]with-[]the-[]internet-[]of-[]things/$[][]
 \T1/lmr/m/n/12 , 2014.  [On-line; ac-cessed
  []
 
-[21
+[26
 
 
 ]
@@ -1032,7 +1044,7 @@ $\T1/lmtt/m/n/12 Smart _ Environments _ and _ Integrated _ Ecosystems _ IERC _
 Book _ Open _ Access _$
  []
 
-) [22] (ukazka_prace1.pri)
+) [27] (ukazka_prace1.pri)
 \tf@pri=\write9
 \openout9 = `ukazka_prace1.pri'.
 
@@ -1085,7 +1097,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
 Package rerunfilecheck Info: File `ukazka_prace1.out' has not changed.
-(rerunfilecheck)             Checksum: 3755C8060D14FEC6C70B5223850F3280;1127.
+(rerunfilecheck)             Checksum: 04B19CD3B9A9698F0FBEF8A772C8A85A;1353.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1093,13 +1105,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 33.
  ) 
 Here is how much of TeX's memory you used:
- 11597 strings out of 493634
- 169807 string characters out of 3135239
- 322099 words of memory out of 3000000
- 14651 multiletter control sequences out of 15000+200000
+ 11608 strings out of 493634
+ 169944 string characters out of 3135239
+ 321105 words of memory out of 3000000
+ 14654 multiletter control sequences out of 15000+200000
  83994 words of font info for 50 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 40i,7n,51p,1608b,1580s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,7n,51p,1853b,1580s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
 c}{C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-maths
 y.enc}<C:/Users/Marek/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
@@ -1115,9 +1127,9 @@ grams/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Marek/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/Marek/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Marek/Ap
 pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
-Output written on ukazka_prace1.pdf (26 pages, 2128327 bytes).
+Output written on ukazka_prace1.pdf (31 pages, 2147518 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 83 named destinations out of 1000 (max. 500000)
- 155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 402 PDF objects out of 1000 (max. 8388607)
+ 91 named destinations out of 1000 (max. 500000)
+ 179 words of extra memory for PDF output out of 10000 (max. 10000000)
 
