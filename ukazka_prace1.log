@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.27)  6 MAY 2016 20:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.27)  6 MAY 2016 20:47
 entering extended mode
 **./ukazka_prace1.tex
 (ukazka_prace1.tex
@@ -1097,7 +1097,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 33.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 33.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 33.
 Package rerunfilecheck Info: File `ukazka_prace1.out' has not changed.
-(rerunfilecheck)             Checksum: 04B19CD3B9A9698F0FBEF8A772C8A85A;1353.
+(rerunfilecheck)             Checksum: 89D9216EC507161943E032CC6F55EDFB;1353.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1127,7 +1127,7 @@ grams/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Marek/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/Marek/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Marek/Ap
 pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
-Output written on ukazka_prace1.pdf (31 pages, 2147518 bytes).
+Output written on ukazka_prace1.pdf (31 pages, 2147553 bytes).
 PDF statistics:
  402 PDF objects out of 1000 (max. 8388607)
  91 named destinations out of 1000 (max. 500000)
