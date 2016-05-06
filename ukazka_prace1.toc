@@ -1,0 +1,20 @@
+\select@language {english}
+\thispagestyle {empty}
+\contentsline {section}{\'{U}vod}{11}{section*.2}
+\contentsline {section}{\numberline {1}Technol\'ogia Internet of Things}{12}{section.3}
+\contentsline {subsection}{\numberline {1.1}Vznik pojmu Internet of Things}{12}{subsection.4}
+\contentsline {subsection}{\numberline {1.2}Vyu\v zite\v lnos\v t}{12}{subsection.5}
+\contentsline {subsection}{\numberline {1.3}Hist\'oria}{13}{subsection.6}
+\contentsline {subsection}{\numberline {1.4}Protokoly komunik\'acie}{13}{subsection.7}
+\contentsline {subsubsection}{\numberline {1.4.1}Hypertext Transfer Protocol}{13}{subsubsection.8}
+\contentsline {subsection}{\numberline {1.5}Senzory}{15}{subsection.11}
+\contentsline {subsection}{\numberline {1.6}Ak\v cn\'e \v cleny}{16}{subsection.12}
+\contentsline {subsection}{\numberline {1.7}Agreg\'atory}{16}{subsection.13}
+\contentsline {subsection}{\numberline {1.8}Mo\v znosti prepojenia}{16}{subsection.14}
+\contentsline {subsection}{\numberline {1.9}Middleware}{16}{subsection.15}
+\contentsline {subsubsection}{\numberline {1.9.1}Po\v ziadavky}{16}{subsubsection.16}
+\contentsline {section}{Z\'{a}ver}{20}{section*.17}
+\contentsline {section}{Zoznam pou\v {z}itej literat\'{u}ry}{21}{section*.18}
+\contentsline {section}{Pr\'{i}lohy}{I}{section*.19}
+\contentsline {section}{\numberline {A} \v Strukt\'ura elektronick\'eho nosi\v ca}{II}{section.21}
+\contentsline {section}{\numberline {B} Algoritmus}{III}{section.24}
