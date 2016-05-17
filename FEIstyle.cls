@@ -496,7 +496,7 @@ na z\'{a}klade poznatkov z\'{i}skan\'{y}ch po\v{c}as \v{s}t\'{u}dia a inform\'{a
 	\setlength{\cftfignumwidth}{\dimexpr\mylenf+2em}
 	\setlength{\cfttabnumwidth}{\dimexpr\mylenf+2em}
 	\IfEqCase*{\FEIenglish}{
-   		 {0}{\subsection*{Zoznam obr\'{a}zkov a tabuliek}}
+   		 {0}{\subsection*{Zoznam obr\'{a}zkov}}
 		 {1}{ \subsection*{List of Figures and Tables}}
 		  }[]	   
 	\vspace{5mm}
@@ -584,7 +584,7 @@ na z\'{a}klade poznatkov z\'{i}skan\'{y}ch po\v{c}as \v{s}t\'{u}dia a inform\'{a
 }
 
 \newcommand\FEIintroduction[1]{	
-	%\setcounter{page}{1}
+	\setcounter{page}{1}
 	\pagestyle{plain}
 	\IfEqCase*{\FEIenglish}{
    		 {0}{\def\@zoznamUv{\'{U}vod}}
